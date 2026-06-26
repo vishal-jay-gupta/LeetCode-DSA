@@ -56,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0047-permutations-ii) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
