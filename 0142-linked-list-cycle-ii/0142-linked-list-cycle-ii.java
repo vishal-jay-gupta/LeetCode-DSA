@@ -50,9 +50,6 @@ public class Solution {
     Floyd's Cycle Detection - use slow and fast pointer
 */
     public ListNode detectCycle(ListNode head) {
-        if(head == null) return null;
-        if(head.next == null) return null;
-
         ListNode slow = head;
         ListNode fast = head;
 
@@ -60,21 +57,15 @@ public class Solution {
             slow = slow.next;
             fast = fast.next.next;
             if(slow == fast){
-                break;
+                slow = head;
+                while(slow != fast){
+                    slow = slow.next;
+                    fast = fast.next;
+                }
+                return slow;
             }
         }
 
-        if(fast == null || fast.next == null){
-            return null;
-        }
-
-        slow =  head;
-
-        while(slow != fast){
-            slow = slow.next;
-            fast = fast.next;
-        }
-
-        return slow;
+        return null;
     }
 }
