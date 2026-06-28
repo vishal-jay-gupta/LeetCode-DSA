@@ -50,37 +50,12 @@ public class Solution {
     Floyd's Cycle Detection - use slow and fast pointer
 */
 
-    public ListNode detectCycle(ListNode head) {
-        if(head == null) return null;
-        if(head.next == null) return null;
 
-        ListNode slow = head;
-        ListNode fast = head;
-
-        while(fast != null && fast.next != null){
-            slow = slow.next;
-            fast = fast.next.next;
-            if(slow == fast){
-                break;
-            }
-        }
-
-        if(fast == null || fast.next == null){
-            return null;
-        }
-
-        slow =  head;
-
-        while(slow != fast){
-            slow = slow.next;
-            fast = fast.next;
-        }
-
-        return slow;
-    }
-
-
+    // Way 1 with corner cases
     // public ListNode detectCycle(ListNode head) {
+    //     if(head == null) return null;
+    //     if(head.next == null) return null;
+
     //     ListNode slow = head;
     //     ListNode fast = head;
 
@@ -88,15 +63,45 @@ public class Solution {
     //         slow = slow.next;
     //         fast = fast.next.next;
     //         if(slow == fast){
-    //             slow = head;
-    //             while(slow != fast){
-    //                 slow = slow.next;
-    //                 fast = fast.next;
-    //             }
-    //             return slow;
+    //             break;
     //         }
     //     }
 
-    //     return null;
+    //     if(fast == null || fast.next == null){
+    //         return null;
+    //     }
+
+    //     slow =  head;
+
+    //     while(slow != fast){
+    //         slow = slow.next;
+    //         fast = fast.next;
+    //     }
+
+    //     return slow;
     // }
+
+
+    // Way 2 with corner cases
+
+
+    public ListNode detectCycle(ListNode head) {
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+            if(slow == fast){
+                slow = head;
+                while(slow != fast){
+                    slow = slow.next;
+                    fast = fast.next;
+                }
+                return slow;
+            }
+        }
+
+        return null;
+    }
 }
