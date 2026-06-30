@@ -1,28 +1,70 @@
 import java.util.*;
 
-class MyStack {
-    Queue<Integer> q = new LinkedList<>();
-    public MyStack() {
+
+/*--------------------------------------------------------------------------------------
+    Solution by One Queue
+--------------------------------------------------------------------------------------*/
+// class MyStack {
+//     Queue<Integer> q = new LinkedList<>();
+//     public MyStack() {
         
+//     }
+    
+//     public void push(int x) {
+//         q.add(x);
+//         for(int i=1; i<q.size(); i++){
+//             q.add(q.remove());
+//         }
+//     }
+    
+//     public int pop() {
+//         return q.remove();
+//     }
+    
+//     public int top() {
+//         return q.peek();
+//     }
+    
+//     public boolean empty() {
+//         return q.isEmpty();
+//     }
+// }
+
+
+/*--------------------------------------------------------------------------------------
+    Solution by two Queue
+--------------------------------------------------------------------------------------*/
+class MyStack {
+    Queue<Integer> q1;
+    Queue<Integer> q2;
+    public MyStack() {
+        q1 = new LinkedList<>();
+        q2 = new LinkedList<>();
     }
     
     public void push(int x) {
-        q.add(x);
-        for(int i=1; i<q.size(); i++){
-            q.add(q.remove());
+        q2.add(x);
+        while(!q1.isEmpty()){
+            q2.add(q1.remove());
         }
+        Queue temp = q1;
+        q1 = q2;
+        q2 = temp;
     }
     
     public int pop() {
-        return q.remove();
+        return q1.remove();
     }
     
     public int top() {
-        return q.peek();
+        if(q1.isEmpty()){
+            return -1;
+        }
+        return q1.peek();
     }
     
     public boolean empty() {
-        return q.isEmpty();
+        return q1.isEmpty();
     }
 }
 
