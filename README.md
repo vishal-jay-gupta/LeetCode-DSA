@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
@@ -138,15 +139,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0101-symmetric-tree) |
+| [0572-subtree-of-another-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
