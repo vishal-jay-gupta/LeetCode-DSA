@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0090-subsets-ii) |
 | [0204-count-primes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
+| [0643-maximum-average-subarray-i](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## String
 |  |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
