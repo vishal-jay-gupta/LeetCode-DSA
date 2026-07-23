@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -191,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
