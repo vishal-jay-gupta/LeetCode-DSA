@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0876-middle-of-the-linked-list](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
@@ -195,11 +198,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Dynamic Programming
 |  |
