@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0841-keys-and-rooms](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0841-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0841-keys-and-rooms](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0841-keys-and-rooms) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
