@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0090-subsets-ii) |
+| [0200-number-of-islands](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0841-keys-and-rooms) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -249,4 +252,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
