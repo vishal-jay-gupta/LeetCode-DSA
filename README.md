@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0994-rotting-oranges](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## String
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -260,4 +262,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
