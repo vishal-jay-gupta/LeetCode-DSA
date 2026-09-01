@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0994-rotting-oranges](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0994-rotting-oranges) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## String
 |  |
