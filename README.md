@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0047-permutations-ii) |
+| [0073-set-matrix-zeroes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0169-majority-element) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0169-majority-element) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 ## Boyer–Moore Majority Vote Algorithm
