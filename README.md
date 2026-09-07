@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0509-fibonacci-number) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0876-middle-of-the-linked-list](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0876-middle-of-the-linked-list) |
