@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0994-rotting-oranges](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 | [1051-height-checker](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1051-height-checker) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Stack
 |  |
 | ------- |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1051-height-checker) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
