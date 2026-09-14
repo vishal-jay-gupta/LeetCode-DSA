@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
