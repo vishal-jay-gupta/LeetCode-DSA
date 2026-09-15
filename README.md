@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0994-rotting-oranges](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1051-height-checker) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1004-max-consecutive-ones-iii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## String Matching
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
