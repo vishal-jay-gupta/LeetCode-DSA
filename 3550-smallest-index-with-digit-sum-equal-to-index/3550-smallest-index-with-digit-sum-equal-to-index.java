@@ -11,12 +11,8 @@ class Solution {
                 sum += rem;
                 num = num / 10;
             }
-            System.out.println(sum);
-            prefix[i] = sum;
-        }
 
-        for(int i=0; i<n; i++){
-            if(i == prefix[i]) return i;
+            if(sum == i) return i;
         }
 
         return -1;
