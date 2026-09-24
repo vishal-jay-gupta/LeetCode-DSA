@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1051-height-checker) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0509-fibonacci-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/3870-count-commas-in-range) |
 ## Enumeration
