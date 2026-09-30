@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0131-palindrome-partitioning](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0216-combination-sum-iii) |
 ## Sorting
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
