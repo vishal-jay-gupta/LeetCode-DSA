@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0208-implement-trie-prefix-tree) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Algorithm X
 |  |
