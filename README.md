@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0020-valid-parentheses) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
@@ -404,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
