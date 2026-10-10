@@ -40,7 +40,6 @@ class Solution {
             if(s.isEmpty()){
                 hMap.put(nums2[i], -1);
             }else{
-                // list[i] = s.peek();
                 hMap.put(nums2[i], s.peek());
             }
 
