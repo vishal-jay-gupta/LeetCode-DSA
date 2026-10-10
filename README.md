@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0856-score-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 ## Counting
 |  |
 | ------- |
