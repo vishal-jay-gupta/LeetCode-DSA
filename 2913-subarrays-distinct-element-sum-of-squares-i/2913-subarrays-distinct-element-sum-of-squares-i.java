@@ -1,16 +1,21 @@
+
+import java.util.*;
+
 class Solution {
     public int sumCounts(List<Integer> nums) {
         int ans = 0;
-        for(int i=0; i<nums.size(); i++){
-            for(int j=i; j<nums.size(); j++){
-                Set<Integer> set = new HashSet<>();
-                for(int k=i; k<=j; k++){
-                    set.add(nums.get(k));
-                }
-                int square = set.size();
-                ans += square * square;
+        int n = nums.size();
+
+        for (int i = 0; i < n; i++) {
+            Set<Integer> set = new HashSet<>();
+
+            for (int j = i; j < n; j++) {
+                set.add(nums.get(j));
+                int distinct = set.size();
+                ans += distinct * distinct;
             }
         }
+
         return ans;
     }
 }
