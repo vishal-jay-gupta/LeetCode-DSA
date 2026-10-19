@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0216-combination-sum-iii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0414-third-maximum-number) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
