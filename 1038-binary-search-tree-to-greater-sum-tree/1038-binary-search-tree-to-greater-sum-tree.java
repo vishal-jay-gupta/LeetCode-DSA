@@ -25,23 +25,4 @@ class Solution {
 
         return root;
     }
-
-    // private TreeNode sumGst(TreeNode root){
-    //     if(root.right == null && root.left == null) return root;
-
-    //     TreeNode rightNode;
-    //     if(root.right != null){
-    //         sumGst(root.right);
-    //     }
-
-    //     root.val = root.val + rightNode.val;
-        
-    //     TreeNode leftNode;
-    //     if(root.left != null){
-    //         sumGst(root.left);
-    //     }
-
-    //     root.val = root.val + leftNode.val;
-    //     return root;
-    // }
 }
