@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0841-keys-and-rooms) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## String Matching
 |  |
 | ------- |
