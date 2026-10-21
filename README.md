@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1051-height-checker) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1991-find-the-middle-index-in-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0901-online-stock-span) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Stack
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Tree
