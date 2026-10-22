@@ -2,6 +2,8 @@ import java.util.*;
 
 class Solution {
     public int maxLevelSum(TreeNode root) {
+        if(root == null) return 0;
+
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
         q.add(null);
@@ -14,13 +16,16 @@ class Solution {
             if(node != null){
                 if(node.left != null) q.add(node.left);
                 if(node.right != null) q.add(node.right);
+
                 curr += node.val;  
             }else{
                 if(curr > max){
                     max = curr;
                     ans = level;
                 }
+
                 if(q.isEmpty()) break;
+
                 q.add(null);
                 level++;
                 curr = 0;
