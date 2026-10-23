@@ -15,27 +15,56 @@
  */
 import java.util.*;
 class Solution {
+    /*---------------------------------------------------------------------------------------------
+            Time Complexity = O(2n) = O(n)
+            Space Complexity = O(2n) = O(n)
+    --------------------------------------------------------------------------------------------*/
+    // public void flatten(TreeNode root) {
+    //     if(root == null) return;
+    //     if(root.left == null && root.right == null) return;
+    //     Queue<TreeNode> q = new LinkedList<>();
+
+    //     preorder(root, q);
+    //     TreeNode prev = null;
+    //     while(!q.isEmpty()){
+    //         TreeNode node = q.poll();
+    //         node.left = null;
+    //         if(prev != null){
+    //             prev.right = node;
+    //         }
+    //         prev = node;
+    //     }
+    // }
+
+    // private void preorder(TreeNode root, Queue<TreeNode> q){
+    //     if(root == null) return;
+    //     q.add(root);
+    //     preorder(root.left, q);
+    //     preorder(root.right, q);
+    // }
+
+    /*---------------------------------------------------------------------------------------------
+            Time Complexity = O(n)
+            Space Complexity = O(1)
+    --------------------------------------------------------------------------------------------*/
     public void flatten(TreeNode root) {
         if(root == null) return;
         if(root.left == null && root.right == null) return;
-        Queue<TreeNode> q = new LinkedList<>();
+        
+        TreeNode curr = root;
+        while(curr != null){
+            if(curr.left != null){
+                TreeNode temp = curr.left;
 
-        addIntoQueue(root, q);
-        TreeNode prev = null;
-        while(!q.isEmpty()){
-            TreeNode node = q.poll();
-            node.left = null;
-            if(prev != null){
-                prev.right = node;
+                while(temp.right != null){
+                    temp = temp.right;
+                }
+
+                temp.right = curr.right;
+                curr.right = curr.left;
+                curr.left = null;
             }
-            prev = node;
+            curr = curr.right;
         }
-    }
-
-    private void addIntoQueue(TreeNode root, Queue<TreeNode> q){
-        if(root == null) return;
-        q.add(root);
-        addIntoQueue(root.left, q);
-        addIntoQueue(root.right, q);
     }
 }
