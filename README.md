@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2409-count-days-spent-together](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/2409-count-days-spent-together) |
 ## Trie
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0509-fibonacci-number) |
+| [2409-count-days-spent-together](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
