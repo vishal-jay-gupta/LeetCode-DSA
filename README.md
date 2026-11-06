@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0090-subsets-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0231-power-of-two) |
