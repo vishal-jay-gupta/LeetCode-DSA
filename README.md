@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [2409-count-days-spent-together](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
