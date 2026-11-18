@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2409-count-days-spent-together](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Trie
 |  |
 | ------- |
