@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0506-relative-ranks) |
 | [1051-height-checker](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1051-height-checker) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Linked List
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
