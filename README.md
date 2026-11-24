@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1352-product-of-the-last-k-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -512,4 +515,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
