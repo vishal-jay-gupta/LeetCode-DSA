@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0020-valid-parentheses) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0204-count-primes) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/0049-group-anagrams) |
