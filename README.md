@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [3360-stone-removal-game](https://github.com/vishal-jay-gupta/LeetCode-DSA/tree/master/3360-stone-removal-game) |
 ## Tree
 |  |
 | ------- |
